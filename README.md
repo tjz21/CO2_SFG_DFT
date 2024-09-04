@@ -8,16 +8,16 @@ This repository contains the computational supporting information for the submit
 ```
 .
 ├── CO2_bend_scan/
-│   ├── CO2_bend_scan.com
-│   ├── CO2_ir_raman_singlepoint.com
-│   └── scan_strcutures/
+│   ├── CO2_bend_scan.com               # CO2 bend scan input file;  180 -> 120 degrees
+│   ├── CO2_ir_raman_singlepoint.com    # frequency calculation with raman input file
+│   └── scan_strcutures/                # Cartesian .xyz structures from scan ^^
 │   
 └── vanadate_CO2_complex/
-    ├── config_1.com
-    ├── config_2.com
+    ├── config_1.com                    # opt+freq calculation for vanadate--CO2 dispersion complex 
+    ├── config_2.com                    # " with another complex orientation
     |
-    ├── config_1.xyz
-    └── config_2.xyz
+    ├── config_1.xyz                    # corresponding optimized .xyz structure ^^
+    └── config_2.xyz                    # "
 
 3 directories, 20 files
 ```
