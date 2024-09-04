@@ -1,4 +1,4 @@
-# CO2 SFG Calculations
+# CO<sub>2</sub> SFG Calculations
 
 This repository contains the computational supporting information for the submitted *PNAS* manuscript 'Direct observation of CO<sub>2</sub> adsorption and binding at the air/aqueous interface.'
 
