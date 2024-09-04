@@ -2,7 +2,7 @@
 
 <img align='right' src='https://github.com/tjz21/CO2_SFG_DFT/blob/main/vanadate.png' width = "207" height = "127"> 
 
-This repository contains the computational supporting information for the submitted *PNAS* manuscript 'Direct observation of CO<sub>2</sub> adsorption and binding at the air/aqueous interface.'
+This repository contains the computational supporting information for the submitted *PNAS* manuscript 'Direct observation of CO<sub>2</sub> adsorption and binding at the air/aqueous interface.' Calculations were carried out in the Gaussian 16 Rev A.03<sup>1</sup> software package with the CAM-B3LYP functional and 6-31+G* basis set. See the below file tree for metadata.
 
 ## Contents
 ```
