@@ -2,10 +2,7 @@
 
 This repository contains the computational supporting information for the submitted *PNAS* manuscript 'Direct observation of CO<sub>2</sub> adsorption and binding at the air/aqueous interface.'
 
-<div style="text-align:right;">
-  <img src="https://github.com/tjz21/CO2_SFG_DFT/blob/main/CO2_animation.gif" width="446" height="149">
-</div>
-
+<img align='right' src='https://github.com/tjz21/CO2_SFG_DFT/blob/main/vanadate.png' width = "414" height = "253"> 
 
 ## Contents
 ```
