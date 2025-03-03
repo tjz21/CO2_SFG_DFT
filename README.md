@@ -30,7 +30,7 @@ git clone https://github.com/tjz21/CO2_SFG_DFT.git
 
 or if you would just like a specific file:
 ```bash
-wget [URL of specific file]
+wget [raw URL of specific file]
 ```
 
 
